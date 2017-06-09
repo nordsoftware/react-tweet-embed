@@ -3,7 +3,6 @@
   "version": "1.0.6",
   "description": "react component that you supply tweet id and you'll get a tweet embed back, nothing more",
   "main": "dist/tweet-embed.js",
-  "module": "dist/tweet-embed.es.js",
   "scripts": {
     "test": "BABEL_ENV=cjs ava",
     "testu": "BABEL_ENV=cjs ava -u",
